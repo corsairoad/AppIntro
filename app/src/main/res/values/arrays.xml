@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="gallery_kampanye">
+        <item>@drawable/gallery_wh</item>
+        <item>@drawable/gallery_rano</item>
+    </integer-array>
+
+    <integer-array name="kandidat_array">
+        <item>@drawable/wh</item>
+        <item>@drawable/ra</item>
+    </integer-array>
+
+    <integer-array name="image_partai_array_wh">
+        <item>@drawable/pkb</item>
+        <item>@drawable/pks</item>
+        <item>@drawable/golkar</item>
+        <item>@drawable/gerindra</item>
+        <item>@drawable/demokrat</item>
+    </integer-array>
+
+    <integer-array name="color_partai_wh">
+        <item>@color/color_pkb</item>
+        <item>@color/color_pks</item>
+        <item>@color/color_golkar</item>
+        <item>@color/color_gerindra</item>
+        <item>@color/color_demokrat</item>
+    </integer-array>
+
+    <integer-array name="image_partai_array_rano">
+        <item>@drawable/nasdem</item>
+        <item>@drawable/pdi</item>
+        <item>@drawable/ppp</item>
+    </integer-array>
+
+    <integer-array name="color_partai_rano">
+        <item>@color/color_nasdem</item>
+        <item>@color/color_pdi</item>
+        <item>@color/color_ppp</item>
+    </integer-array>
+
+    <string-array name="nama_kandidat_array">
+        <item>@string/wh_andika_desc</item>
+        <item>@string/rano_embay_desc</item>
+    </string-array>
+
+    <string-array name="url_gallery_kampanye">
+        <!--
+        <item>https://s19.postimg.org/7gmmyie8j/wh_andika_gallery.jpg</item>
+        <item>https://s19.postimg.org/i21wwrv6b/Photo_Funia_1480329534.jpg</item>
+        -->
+        <item>https://i.imgsafe.org/d4638bade1.png</item>
+        <item>https://i.imgsafe.org/d46371604f.png</item>
+        <item>https://i.imgsafe.org/d463682fe2.png</item>
+        <item>https://i.imgsafe.org/d46353fde4.png</item>
+        <item>https://i.imgsafe.org/d463518303.png</item>
+        <item>https://i.imgsafe.org/d4633aed70.png</item>
+        <item>https://i.imgsafe.org/d462e4aa00.png</item>
+        <item>https://i.imgsafe.org/d462bdc732.png</item>
+        <item>https://i.imgsafe.org/d4628d9ee2.png</item>
+        <item>https://i.imgsafe.org/d46269a8cb.png</item>
+        <item>https://i.imgsafe.org/3e57dec980.jpg</item>
+        <item>https://i.imgsafe.org/3e4cc381a2.png</item>
+        <item>https://i.imgsafe.org/3e48256547.jpg</item>
+        <item>https://i.imgsafe.org/3e45ce384f.jpg</item>
+    </string-array>
+</resources>

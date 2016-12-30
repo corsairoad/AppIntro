@@ -1,0 +1,29 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_ppp"
+    tools:context="bea.fadly.com.bantenelectionapp.fragments.FragmentIntro1">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/intro_1"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:src="@mipmap/my_launcher"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="16dp"
+        android:textSize="16sp"
+        android:text="Informasi Seputar Pilkada Banten 2017"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:textColor="@color/com_adobe_image_color_white"
+        android:layout_below="@+id/intro_1"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"/>
+
+</RelativeLayout>
